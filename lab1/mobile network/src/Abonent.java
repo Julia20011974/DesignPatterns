@@ -28,5 +28,5 @@ public class Abonent {
 	public Tariff getTariff() {
 		return this.tariff;
 	}
-	
+	 
 }
