@@ -1,4 +1,4 @@
 
 public interface Tariff {
-   public void plan(Abonent abonent, infoAbnent infoAbonenet);
+   public void plan(Abonent abonent, InfoAbonent infoAbonenet);
 }
